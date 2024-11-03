@@ -1,5 +1,6 @@
-## Hi there 👋
-
+### Hi! I'm Caroline!! ✮ ⋆ ˚｡𖦹 ⋆｡°✩
+A little about me:
+- Computer Science and Cognitive Science student from Rice University 
 <!--
 **c444roline/c444roline** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
